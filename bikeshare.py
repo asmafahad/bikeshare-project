@@ -1,3 +1,8 @@
+# Project: Bikeshare
+# This file loads local CSVs and prints simple info.
+
+
+
 import time
 import pandas as pd
 import numpy as np
